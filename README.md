@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Pratham Prajapati from India<br><br>- 🔭 I’m working as intern at AdaInsys<br>- 📚 I'm currently learning Flutter and AI applications in mobile<br>- ⚡ In my free time I like to swim</p>
+<p align="left">I'm Pratham Prajapati from India<br><br>- 🔭 I’m working as intern at Ada Insys India<br>- 📚 I'm currently learning Flutter and AI applications in mobile<br>- ⚡ In my free time I like to swim</p>
 
 ###
 
